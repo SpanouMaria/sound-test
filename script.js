@@ -1,5 +1,5 @@
-const blueSound = new Audio('blue.mp3');
-const redSound = new Audio('red.mp3');
+const blueSound = new Audio('blue_f_cello.mp3');
+const redSound = new Audio('red_g_cello.mp3');
 
 // Ρυθμίζουμε να παίζουν συνέχεια όσο είναι πατημένα
 blueSound.loop = true;
